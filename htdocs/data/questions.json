@@ -1,0 +1,106 @@
+{
+    "Cuisine": [
+        {
+            "Question": "De quelle couleur sont les carottes ?",
+            "Réponses": [
+                "Bleues",
+                "Rouges",
+                "Vertes",
+                "Oranges"
+            ],
+            "Valide": "3"
+        },
+        {
+            "Question": "De quelle couleur sont les tomates ?",
+            "Réponses": [
+                "Bleues",
+                "Rouges",
+                "Vertes",
+                "Oranges"
+            ],
+            "Valide": "1"
+        },
+        {
+            "Question": "De quelle couleur sont les aubergines ?",
+            "Réponses": [
+                "Bleues",
+                "Rouges",
+                "Vertes",
+                "Oranges"
+            ],
+            "Valide": "0"
+        },
+        {
+            "Question": "De quelle couleur sont les pommes ?",
+            "Réponses": [
+                "Bleues",
+                "Rouges",
+                "Vertes",
+                "Oranges"
+            ],
+            "Valide": "2"
+        },
+        {
+            "Question": "De quelle couleur sont les clémentines ?",
+            "Réponses": [
+                "Bleues",
+                "Rouges",
+                "Vertes",
+                "Oranges"
+            ],
+            "Valide": "3"
+        }
+    ],
+    "Science": [
+        {
+            "Question": "Quelle est la formule de la molécule d'eau ?",
+            "Réponses": [
+                "H20",
+                "CH4",
+                "02",
+                "04"
+            ],
+            "Valide": "0"
+        },
+        {
+            "Question": "Quelle est la formule de la molécule de méthane ?",
+            "Réponses": [
+                "H20",
+                "CH4",
+                "02",
+                "04"
+            ],
+            "Valide": "1"
+        },
+        {
+            "Question": "Quelle est la formule de la molécule d'oxygène ?",
+            "Réponses": [
+                "H20",
+                "CH4",
+                "02",
+                "04"
+            ],
+            "Valide": "2"
+        },
+        {
+            "Question": "Quelle est la formule de la molécule d'ozone ?",
+            "Réponses": [
+                "H20",
+                "CH4",
+                "02",
+                "04"
+            ],
+            "Valide": "3"
+        },
+        {
+            "Question": "De quelle couleur est la lumière du Soleil ?",
+            "Réponses": [
+                "Bleue",
+                "Jaune",
+                "Blanche",
+                "Orange"
+            ],
+            "Valide": "2"
+        }
+    ]
+}

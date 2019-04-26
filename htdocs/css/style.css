@@ -1,0 +1,200 @@
+.question {
+    border: 1px solid black;
+    background-color: lightcyan;
+    height: 70px;
+    font-size: 1.3em;
+}
+
+.reponse {
+    border: 1px solid black;
+    background-color: lightcyan;
+    height: 50px;
+}
+
+/* couleur de fond*/
+
+#fondfirstpage {
+    height: 90vh;
+}
+
+/* typo navbar*/
+
+.slogan {
+    font-family: 'Courgette', cursive;
+    font-family: 'Kalam', cursive;
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Pacifico', cursive;
+}
+
+.slogan-center {
+    width: 70%;
+}
+
+.logo {
+    margin-top: 80px;
+}
+
+#fourchette {
+    border: 2px solid black;
+    border-radius: 5px;
+    width: 60px;
+    height: 60px;
+}
+
+.icon-color-blueback {
+    color: #1a53ff;
+}
+
+.icon-bgcolor-lightblue {
+    color: lightblue;
+}
+
+.icon-general {
+    border: 2px solid rgba(25, 25, 25, 0.3);
+    border-radius: 5px;
+    padding: 5px;
+}
+
+.icon-color-blue {
+    color: blue;
+}
+
+.icon-color-yellow {
+    color: #e6e600;
+}
+
+.fa-160em {
+    font-size: 1.60em;
+}
+
+.formulaire-inscription-cadre {
+    border: 1px solid rgba(25, 25, 25, 0.2);
+    border-radius: 12px;
+    padding: 11px 15px;
+    background-color: rgba(255, 255, 255, 0.3);
+}
+
+.cadre-yello {
+    border: 1px solid rgba(25, 25, 25, 0.2);
+    border-radius: 12px;
+    padding: 11px 15px;
+    background-color: rgba(10, 67, 173, 0.3);
+}
+
+.small {
+    color: black;
+}
+
+.titre-test {
+    font-family: 'Open Sans', sans-serif;
+}
+
+.titre-theme {
+    color: black;
+    margin-left: 30px;
+}
+
+.my-6 {
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+
+.mt-6 {
+    margin-top: 100px;
+}
+
+.nomtheme {
+    color: white;
+    font-size: 0.35em;
+    display: inline-block;
+    margin-top: 48px;
+    margin-left: 25px;
+    width: 68px;
+}
+
+/* differents boutons */
+
+/* bouton QCM question */
+
+#buttonquestion {
+    padding: 4px 12px;
+    font-size: 18px;
+    text-align: center;
+    cursor: pointer;
+    outline: none;
+    color: #fff;
+    background-color: #074374;
+    border: none;
+    border-radius: 10px;
+    box-shadow: 0 4px #999;
+}
+
+.button:hover {
+    background-color: #c55205
+}
+
+.button:active {
+    background-color: #078697;
+    box-shadow: 0 1px #666;
+    transform: translateY(4px);
+}
+
+/* bouton QCM petit suivant*/
+
+.button {
+    padding: 4px 12px;
+    font-size: 18px;
+    text-align: center;
+    cursor: pointer;
+    outline: none;
+    color: #fff;
+    background-color: #074374;
+    ;
+    border: none;
+    border-radius: 10px;
+    box-shadow: 0 2px #999;
+}
+
+.button:hover {
+    background-color: #1f1e1c
+}
+
+.button:active {
+    background-color: #1f1e1c;
+    box-shadow: 0 1px #444;
+    transform: translateY(4px);
+}
+
+/* bouton QCM large */
+
+#buttonlarge {
+    padding: 4px 12px;
+    font-size: 18px;
+    text-align: center;
+    cursor: pointer;
+    outline: none;
+    color: rgb(17, 17, 17);
+    background-color: #dfc010;
+    border: none;
+    border-radius: 10px;
+    box-shadow: 0 4px #999;
+}
+
+.button:hover {
+    background-color: #c55205;
+}
+
+.button:active {
+    background-color: #dfc010;
+    box-shadow: 0 3px #666;
+    transform: translateY(4px);
+}
+
+.profile-picture {
+    width: 150px;
+    height: 150px;
+}
+
+input[type=file] {
+    display: none;
+}
